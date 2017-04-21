@@ -77,8 +77,9 @@
   <ItemGroup>
     <Compile Include="Assets\FirstPersonCharacter\Scripts\MouseLook.cs" />
     <Compile Include="Assets\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs" />
-    <Compile Include="Assets\PlacingItems\ArtHolder.cs" />
-    <Compile Include="Assets\PlacingItems\ArtObject.cs" />
+    <Compile Include="Assets\Scripts_Obj\ArtHolder.cs" />
+    <Compile Include="Assets\Scripts_Obj\ArtObject.cs" />
+    <Compile Include="Assets\Scripts_Obj\RevolveCenter.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

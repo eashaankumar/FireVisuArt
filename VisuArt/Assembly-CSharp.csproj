@@ -48,8 +48,10 @@
   <ItemGroup>
      <Compile Include="Assets\FirstPersonCharacter\Scripts\MouseLook.cs" />
      <Compile Include="Assets\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs" />
-     <Compile Include="Assets\PlacingItems\ArtHolder.cs" />
-     <Compile Include="Assets\PlacingItems\ArtObject.cs" />
+     <Compile Include="Assets\Scripts_Obj\ArtHolder.cs" />
+     <Compile Include="Assets\Scripts_Obj\ArtObject.cs" />
+     <Compile Include="Assets\Scripts_Obj\FlickeringLights.cs" />
+     <Compile Include="Assets\Scripts_Obj\RevolveCenter.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
