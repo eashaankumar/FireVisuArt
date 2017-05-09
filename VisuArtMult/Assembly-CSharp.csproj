@@ -81,6 +81,7 @@
      <Compile Include="Assets\OVR\Scripts\Util\OVRSceneSampleController.cs" />
      <Compile Include="Assets\OVR\Scripts\Util\OVRScreenFade.cs" />
      <Compile Include="Assets\OVR\Scripts\Util\OVRWaitCursor.cs" />
+     <Compile Include="Assets\OverriddenNetworkDiscovery.cs" />
      <Compile Include="Assets\_Scripts\Controller.cs" />
      <Compile Include="Assets\_Scripts\Network\PlayerSetup.cs" />
      <Compile Include="Assets\_Scripts\SceneSettings.cs" />
