@@ -46,8 +46,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\DisplayIP.cs" />
      <Compile Include="Assets\FirstPersonCharacter\Scripts\MouseLook.cs" />
      <Compile Include="Assets\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs" />
+     <Compile Include="Assets\NetManagerCuston.cs" />
      <Compile Include="Assets\OVR\Scripts\OVRBoundary.cs" />
      <Compile Include="Assets\OVR\Scripts\OVRCameraRig.cs" />
      <Compile Include="Assets\OVR\Scripts\OVRCommon.cs" />
