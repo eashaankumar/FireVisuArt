@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NetManagerCuston.cs">
+    <Files>
+      <File FileName="Assets/OverriddenNetworkDiscovery.cs" Line="4" Column="59" />
+      <File FileName="Assets/_Scripts/Scripts_Obj/ArtHolder.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/Network/PlayerSetup.cs" Line="33" Column="45" />
+      <File FileName="Assets/DisplayIP.cs" Line="18" Column="3" />
+      <File FileName="Assets/NetManagerCuston.cs" Line="12" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
